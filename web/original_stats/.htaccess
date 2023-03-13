@@ -1,0 +1,7 @@
+AuthName "dwyereng.co.uk statistics"
+AuthType Basic
+AuthUserFile /home/sites/dwyereng.co.uk/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

@@ -1,0 +1,10 @@
+<div id="navcontainer">
+    <ul>
+      <li><a href="../index.php">Home</a></li>
+      <li><a href="../dwyer-engineering-profile.php">Company Profile</a></li>
+      <li><a href="../dwyer-building-divisions.php">Divisions</a></li>
+      <li><a href="../dwyer-construction-projects.php">Projects</a></li>
+      <li><a href="../dwyer-quality-policy.php">Quality Policy</a></li>
+      <li><a href="../dwyer-engineering-ltd.php">Contact</a></li>
+    </ul>
+  </div>
